@@ -1,0 +1,12 @@
+#规则定义：
+#未上线时长：no-login-time 时常单位小时
+#发放券金额：money 单位元
+#其他规则待定。。。
+#以corn表达式的样式作为时间周期 * 为匹配任意 如果minutes值为*代表每分钟触发一次
+#Seconds Minutes Hours DayofMonth Month DayofWeek Year  0 0 14 * * * 代表每天14点触发
+#0 0 14 * * * , no-login-time:7*24,20
+#0 0 15 * * * , no-login-time:14*24,30
+#0 0 18 * * * , no-login-time:21*24,50
+#0 0 13 * * * , no-login-time:7*24,20
+#0 0 13 * * * , no-login-time:7*24,50
+#*/5 * * * * ?, 

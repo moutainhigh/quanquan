@@ -1,0 +1,128 @@
+[INFO ] [09:18:12] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [09:18:12] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [09:18:12] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [09:18:12] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [09:30:42] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [09:30:42] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [09:30:42] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [09:30:42] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [09:32:24] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [09:32:24] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [09:32:24] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [09:32:24] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [09:34:10] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [09:34:10] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [09:34:10] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [09:34:10] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [09:50:59] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [09:50:59] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [09:50:59] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [09:50:59] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [17:57:47] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [17:57:47] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [17:57:47] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [17:57:47] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [17:58:19] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [17:58:19] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [17:58:19] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [17:58:19] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:09:32] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:09:32] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:09:32] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:09:32] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:10:25] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:10:25] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:10:25] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:10:25] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:12:41] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:12:41] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:12:41] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:12:41] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:17:18] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:17:18] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:17:18] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:17:18] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:21:30] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:21:30] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:21:30] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:21:30] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:21:30] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:21:30] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:21:30] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:23:22] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:23:22] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:23:22] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:23:22] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:23:22] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:23:22] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:23:22] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:26:16] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:26:16] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:26:16] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:26:16] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:26:16] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:26:16] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:26:16] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:29:29] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:29:29] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:29:29] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:29:29] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:29:29] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:29:29] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:29:29] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:32:05] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:32:05] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:32:05] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:32:05] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:32:05] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:32:05] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:32:05] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:48:41] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:48:41] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:48:41] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:48:41] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:48:42] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:48:42] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:48:42] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:51:11] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:51:11] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:51:11] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:51:11] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:51:11] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:51:11] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:51:11] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:55:33] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:55:33] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:55:33] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:55:33] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:55:33] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:55:33] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:55:33] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [20:58:13] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [20:58:13] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [20:58:13] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [20:58:13] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [20:58:13] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [20:58:13] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [20:58:13] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [21:02:42] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [21:02:42] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [21:02:42] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [21:02:42] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [21:02:42] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [21:02:42] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [21:02:42] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [21:04:49] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [21:04:49] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [21:04:49] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [21:04:49] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [21:04:49] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [21:04:49] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [21:04:49] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9
+[INFO ] [21:05:34] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [21:05:34] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [21:05:34] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [21:05:34] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [21:05:34] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [21:05:34] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [21:05:34] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9

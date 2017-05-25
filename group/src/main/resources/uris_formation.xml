@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uris>
+    <urls name="/action" desc="用户编队-服务" class="com.circle.netty.formation.ation.controller.ActionController">
+        <url name="/user" method="user" desc="用户编队"/>
+        <url name="/ping" method="ping" desc="ddddddd"/>
+        <url name="/sendmessage" method="sendmessage" desc="自定义短信接口"/>
+        <url name="/coupon" method="coupon" desc="处理优惠券-隐藏优惠券"/>
+        <url name="/check" method="check" desc="自检接口"/>
+        <url name="/addmoney" method="addmoney" desc="给用户加钱钱了啊-哈哈哈"/>
+    </urls>
+    <urls name="/message" desc="消息发送" class="com.circle.netty.formation.message.controller.MessageController">
+        <url name="/question" method="question" desc="在发布题目的生命周期中,处理题目各种状态"/>
+        <url name="/robque" method="robque" desc="在发布题目的生命周期中,处理题目各种状态"/>
+        <url name="/board" method="board" desc="画板消息发送"/>
+        <url name="/alipay" method="alipay" desc="支付宝,支付结果"/>
+        <url name="/transcid" method="transcid" desc="指定用户发送透传消息"/>
+        <url name="/transapp" method="transapp" desc="指定用户发送透传消息"/>
+        <url name="/pushapp" method="pushapp" desc="指定用户发送透传消息"/>
+        <url name="/pushcid" method="pushcid" desc="指定用户发送透传消息"/>
+        <url name="/addcoupon" method="addcoupon" desc="给指定用户添加优惠券"/>
+        <url name="/sysmsg" method="sysmsg" desc="给指定用户添加系统消息"/>
+        <url name="/addsysmsg" method="addsysmsg" desc="给指定用户添加系统消息"/>
+        <url name="/backMoney" method="backMoney" desc="back money , and cancel question"/>
+        <url name="/changeRanges" method="changeRanges" desc="重新计算排行榜数据"/>
+    </urls>
+</uris>

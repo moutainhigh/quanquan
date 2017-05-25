@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact name="jars">
+    <output-path>$PROJECT_DIR$/out/artifacts/jars</output-path>
+    <root id="root">
+      <element id="archive" name="ruleFilter.jar">
+        <element id="module-output" name="rulefilter" />
+      </element>
+      <element id="directory" name="config">
+        <element id="file-copy" path="$PROJECT_DIR$/config/conf.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/conf_bak.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/conf_onl.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/hbase-site.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/log4j.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/readMe.txt" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/run.sh" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="activation-1.1" />
+      </element>
+    </root>
+  </artifact>
+</component>

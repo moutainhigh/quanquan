@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="usergroup">
+    <output-path>$PROJECT_DIR$/out/artifacts/usergroup</output-path>
+    <root id="root">
+      <element id="archive" name="usergroup.jar">
+        <element id="module-output" name="userGroup" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>

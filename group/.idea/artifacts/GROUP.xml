@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact name="GROUP">
+    <output-path>$PROJECT_DIR$/classes/artifacts/GROUP</output-path>
+    <root id="root">
+      <element id="directory" name="config">
+        <element id="file-copy" path="$PROJECT_DIR$/config/app.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/hbase-site.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/log4j.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/config/producer.properties" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="lib" />
+      </element>
+      <element id="directory" name="bin">
+        <element id="file-copy" path="$PROJECT_DIR$/bin/close.sh" />
+        <element id="file-copy" path="$PROJECT_DIR$/bin/run.sh" />
+      </element>
+      <element id="archive" name="GROUP.jar">
+        <element id="module-output" name="group" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/spring-core.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/uris_formation.xml" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/README.md" />
+    </root>
+  </artifact>
+</component>

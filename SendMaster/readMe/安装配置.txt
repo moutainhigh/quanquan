@@ -1,0 +1,9 @@
+1、conf.properties 文件是主要配置文件，其中zookeeper配置信息十分重要，每个配置字段都有注释描述
+	CONNECTION_STRING字段定义zookeeper集群信息，程序所在的机器上host必须配置这些别名，否则无法启动
+	
+2、sendMoneyMater是主节点，sendMoneySlave是从节点，主从节点打包，上传到各个节点机器。
+	主节点启动命令：java -jar 包名.jar  
+	从节点启动命令：java -jar 包名.jar 节点hostname
+	
+3、svn中sendmastertest项目为测试代码，Test方法为主方法，直接junit test，在命令行输入参数 例如：config/rules,moren.jar
+	回车键，即手动模拟一条任务请分发请求

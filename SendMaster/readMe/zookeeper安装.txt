@@ -1,0 +1,36 @@
+1.准备环境（zookeeper01,zookeeper02和zookeeper03:由于paxos算法要求半数以上存活则为可用，所以必须准备单数个服务器搭建环境）
+注：环境准备中如果发现ping主机名很慢但是ping ip很快，则将/etc/resolv.conf中nameserver注释掉
+2.在zookeeper01上解压缩zookeeper-3.4.5.tar.gz
+3.配置环境变量ZOOKEEPER_HOME、PATH
+配置hbase环境变量/etc/profile
+export ZOOKEEPER_HOME=/home/hadoop/zookeeper
+export PATH=$PATH:$ZOOKEEPER_HOME/bin
+4.准备两个文件夹data和log用来存放zookeeper的数据和日志
+本例中在ZOOKEEPER_HOME/data、ZOOKEEPER_HOME/log
+注意，两个文件夹权限必须为755
+5.data目录下面新建myid文件，myid的文件内容为：
+1
+6.在conf目录下面复制zoo_sample.cfg文件为zoo.cfg文件，并修改配置
+dataDir=/home/hadoop/zookeeper/data
+dataLogDir=/home/hadoop/zookeeper/log
+server.1=master:2888:3888
+server.2=slave1:2888:3888
+server.3=slave2:2888:3888
+server.4=slave3:2888:3888
+server.A=B：C：D：其中 A 是一个数字，表示这个是第几号服务器；B 是这个服务器的 ip 地址；C 表示的是这个服务器与集群中的 Leader 服务器交换信息的端口；D 表示的是万一集群中的 Leader 服务器挂了，需要一个端口来重新进行选举，选出一个新的 Leader，而这个端口就是用来执行选举时服务器相互通信的端口。如果是伪集群的配置方式，由于 B 都是一样，所以不同的 Zookeeper 实例通信端口号不能一样，所以要给它们分配不同的端口号。
+7.将zookeeper1上的文件发送到zookeeper2和3上
+scp -r ~/zookeeper hadoop@slave1:~/
+scp -r ~/zookeeper hadoop@slave2:~/
+scp -r ~/zookeeper hadoop@slave3:~/
+8.修改每个zookeeper上的myid文件
+2或者3或者4
+9.启动3台机器上的zookeeper（每一台需要独立启动）
+zkServer.sh start
+zkServer.sh start
+zkServer.sh start
+10.检查启动是否成功
+首先jps查看进程
+zkServer.sh status
+其中两台是follower，一台是leader
+停止leader上的zookeeper，如果其余两台中一台leader则启动成功
+如果再停掉一台则剩余的一台状态时不可用的，因为paxos算法要求必须有半数以上服务存活平台才为可用状态

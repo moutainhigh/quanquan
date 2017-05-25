@@ -1,0 +1,7 @@
+[INFO ] [10:05:01] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [10:05:01] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [10:05:01] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [10:05:01] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [10:05:01] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_host=====http://sdk.open.api.igexin.com/apiex.htm
+[INFO ] [10:05:01] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_appkey=====roTXxNaBMh6rcMojZ8Trp2
+[INFO ] [10:05:01] com.circle.netty.formation.message.controller.MessageControllerTest - AppConfig.igexin_master=====R8A4ZYdLTZ9RwBP2b59fN9

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hbase-checkstyle-1.0.0-cdh5.4.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hbase-checkstyle-1.0.0-cdh5.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hbase-testing-util-1.0.0-cdh5.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hbase-shell-1.0.0-cdh5.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

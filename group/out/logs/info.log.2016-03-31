@@ -1,0 +1,52 @@
+[INFO ] [18:07:33] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:07:33] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:07:33] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:07:33] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:07:49] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:07:49] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:07:49] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:07:49] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:09:41] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:09:41] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:09:41] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:09:41] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:10:54] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:10:54] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:10:54] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:10:54] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:11:06] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:11:06] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:11:06] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:11:06] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:12:01] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:12:01] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:12:01] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:12:01] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:12:57] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:12:57] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:12:57] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:12:57] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:14:24] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:14:24] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:14:24] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:14:24] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:16:59] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:16:59] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:16:59] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:16:59] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:34:20] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:34:20] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:34:20] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:34:20] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:34:49] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:34:49] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:34:49] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:34:49] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:41:05] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:41:05] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:41:05] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:41:05] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379
+[INFO ] [18:42:00] com.circle.core.redis.Redis - == Initial ShardInfoRedisPool config ==========================
+[INFO ] [18:42:00] com.circle.core.redis.Redis - Redis node = redis-1.wenaaa.com:6379
+[INFO ] [18:42:00] com.circle.core.redis.Redis - Redis node = redis-2.wenaaa.com:6379
+[INFO ] [18:42:00] com.circle.core.redis.Redis - Redis node = redis-3.wenaaa.com:6379

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uris>
+    <urls name="/sendmaster" desc="设置" class="netty.server.main.sendmaster.controller.SendMasterController">
+        <url name="/start" method="start" desc=""/>
+    </urls>
+</uris>
+
+
+

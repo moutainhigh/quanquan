@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                    http://www.springframework.org/schema/beans/spring-beans.xsd
+                    http://www.springframework.org/schema/context
+                    http://www.springframework.org/schema/context/spring-context.xsd
+                    ">
+    <context:component-scan base-package="netty.server"/>
+    <!--
+    <context:property-placeholder location="classpath:jdbc.properties"/>
+    <context:annotation-config/>
+    <bean id="sampleDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
+          destroy-method="close">
+        <property name="driverClass">
+            <value>${db.driverClassName}</value>
+        </property>
+        <property name="jdbcUrl">
+            <value>${db.url}</value>
+        </property>
+        <property name="user">
+            <value>${db.username}</value>
+        </property>
+        <property name="password">
+            <value>${db.password}</value>
+        </property>
+        <property name="initialPoolSize">
+            <value>${db.initialPoolSize}</value>
+        </property>
+        <property name="minPoolSize">
+            <value>${db.minPoolSize}</value>
+        </property>
+        <property name="maxPoolSize">
+            <value>${db.maxPoolSize}</value>
+        </property>
+        <property name="maxIdleTime">
+            <value>${db.maxIdleTime}</value>
+        </property>
+        <property name="acquireIncrement">
+            <value>${db.acquireIncrement}</value>
+        </property>
+        <property name="acquireRetryAttempts">
+            <value>${db.acquireRetryAttempts}</value>
+        </property>
+        <property name="acquireRetryDelay">
+            <value>${db.acquireRetryDelay}</value>
+        </property>
+        <property name="maxStatements">
+            <value>${db.maxStatements}</value>
+        </property>
+        <property name="maxStatementsPerConnection">
+            <value>${db.maxStatementsPerConnection}</value>
+        </property>
+        <property name="checkoutTimeout">
+            <value>${db.checkoutTimeout}</value>
+        </property>
+        <property name="breakAfterAcquireFailure">
+            <value>${db.breakAfterAcquireFailure}</value>
+        </property>
+    </bean>
+
+
+    <bean id="sampleSqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="sampleDataSource"/>
+        <property name="configLocation" value="classpath:config-mybatis.xml"/>
+        <property name="typeAliasesPackage" value="com.circle.programmer.netty.model"/>
+    </bean>
+
+    <bean id="sqlSessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
+        <constructor-arg ref="sampleSqlSessionFactory"/>
+    </bean>
+     -->
+</beans>
